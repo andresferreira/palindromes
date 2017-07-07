@@ -1,4 +1,4 @@
-MAT Software Team Coding Challenge 
+ Software Challenge
  
 - Solution is written in JAVA language using Apache MAVEN as a software project management tool;
 - The IDE used was IntelliJ IDEA: IntelliJ IDEA 2016.2.5
