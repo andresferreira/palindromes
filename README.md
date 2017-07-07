@@ -12,3 +12,11 @@ TO RUN THE CODE:
 4. Run the main program
 5. You can change input String in the field 'inputString' and run again.
 6. For more details see runprogram.docx
+
+
+
+Good:
+Easy to follow readme & instructions, Non-complicated code, Reasonable number/coverage of tests
+Bad:
+Main “utility” class should be static and not instantiated as an object
+Javadoc is half-complete, Tests are not generally focussed on the scenario / use case, instead feel a little random at times, Logic error in code, could result in more than 3 results being printed out
